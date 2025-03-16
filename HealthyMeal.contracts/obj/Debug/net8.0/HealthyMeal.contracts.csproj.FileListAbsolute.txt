@@ -1,0 +1,11 @@
+C:\Users\CHNEKNE\source\repos\HealthyMeal\HealthyMeal.contracts\bin\Debug\net8.0\HealthyMeal.contracts.deps.json
+C:\Users\CHNEKNE\source\repos\HealthyMeal\HealthyMeal.contracts\bin\Debug\net8.0\HealthyMeal.contracts.dll
+C:\Users\CHNEKNE\source\repos\HealthyMeal\HealthyMeal.contracts\bin\Debug\net8.0\HealthyMeal.contracts.pdb
+C:\Users\CHNEKNE\source\repos\HealthyMeal\HealthyMeal.contracts\obj\Debug\net8.0\HealthyMeal.contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHNEKNE\source\repos\HealthyMeal\HealthyMeal.contracts\obj\Debug\net8.0\HealthyMeal.contracts.AssemblyInfoInputs.cache
+C:\Users\CHNEKNE\source\repos\HealthyMeal\HealthyMeal.contracts\obj\Debug\net8.0\HealthyMeal.contracts.AssemblyInfo.cs
+C:\Users\CHNEKNE\source\repos\HealthyMeal\HealthyMeal.contracts\obj\Debug\net8.0\HealthyMeal.contracts.csproj.CoreCompileInputs.cache
+C:\Users\CHNEKNE\source\repos\HealthyMeal\HealthyMeal.contracts\obj\Debug\net8.0\HealthyMeal.contracts.dll
+C:\Users\CHNEKNE\source\repos\HealthyMeal\HealthyMeal.contracts\obj\Debug\net8.0\refint\HealthyMeal.contracts.dll
+C:\Users\CHNEKNE\source\repos\HealthyMeal\HealthyMeal.contracts\obj\Debug\net8.0\HealthyMeal.contracts.pdb
+C:\Users\CHNEKNE\source\repos\HealthyMeal\HealthyMeal.contracts\obj\Debug\net8.0\ref\HealthyMeal.contracts.dll
