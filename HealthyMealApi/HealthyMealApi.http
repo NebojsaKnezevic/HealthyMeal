@@ -1,0 +1,39 @@
+@HealthyMealApi_HostAddress = http://localhost:5272
+
+GET {{HealthyMealApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+GET {{HealthyMealApi_HostAddress}}/api/HealthyMeal/f7c95db4-6918-428d-82eb-0f577cdd5c85
+Accept: application/json
+
+###
+POST {{HealthyMealApi_HostAddress}}/api/CreateHealthyMeal
+Accept: application/json
+Content-Type: application/json
+{
+    "name": "Healthy Breakfast",
+    "description": "A nutritious meal to start the day",
+    "startDateTime": "2025-03-07T08:00:00Z",
+    "endDateTime": "2025-03-07T10:00:00Z",
+    "savory": ["Eggs", "Avocado", "Whole Grain Bread"],
+    "sweet": ["Banana", "Honey", "Greek Yogurt"]
+}
+
+###
+PUT {{HealthyMealApi_HostAddress}}/api/UpsertHealthyMeal/f7c95db4-6918-428d-82eb-0f577cdd5c85
+Accept: application/json
+Content-Type: application/json
+{
+    "name": "NOVO IME",
+    "description": "Updated description with more protein",
+    "startDateTime": "2025-03-07T07:30:00Z",
+    "endDateTime": "2025-03-07T10:30:00Z",
+    "savory": ["Eggs", "Salmon", "Whole Grain Bread"],
+    "sweet": ["Berries", "Dark Chocolate", "Almond Butter"]
+}
+
+###
+
+DELETE {{HealthyMealApi_HostAddress}}/api/DeleteHealthyMeal/f7c95db4-6918-428d-82eb-0f577cdd5c85
+Accept: application/json

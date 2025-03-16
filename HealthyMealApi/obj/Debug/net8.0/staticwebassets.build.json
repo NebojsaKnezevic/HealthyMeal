@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "r8hus/OnxALCGQxtEBxMafs4ZBCJwUVqveTUe4hhF0w=",
+  "Source": "HealthyMeal.api",
+  "BasePath": "_content/HealthyMeal.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
